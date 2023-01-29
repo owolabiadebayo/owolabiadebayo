@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Owolabi Adebayo</h1>
 <h3 align="center">I'm a frontend and backend Javascript/Machine Learning and Datascience ethusiast</h3>
-<img align="right" width="500" alt="gmtsoftware" src="https://github.com/owolabiadebayo/owolabiadebayo/blob/main/typing.gif" />
+<img align="right" width="500" alt="gmtsoftware" src="https://github.com/owolabiadebayo/owolabiadebayo/blob/main/download.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpcodevo&label=Profile%20views&color=0e75b6&style=flat" alt="wpcodevo" /> </p>
 
@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owolabiadebayo&show_icons=true&locale=en" alt="owolabiadebayo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owolabiadebayoo&" alt="owolabiadebayo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owolabiadebayo&" alt="owolabiadebayo"/></p>
 
 <!---
 owolabiadebayo/owolabiadebayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
